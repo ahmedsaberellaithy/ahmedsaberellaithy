@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Saber @ahmedsaberellaithy
 - 👀 I’m a software engineer,
-- 🌱 I’m eager to learn new technologies, interested in machine learning, backend development using JS and Java spring boot
+- 🌱 I’m eager to learn new technologies, interested in backend development using Go, NodeJS and Java spring boot
 - 💞️ Always welcomming support and feedback
 - 📫 How to reach me 
 ahmed saber 
